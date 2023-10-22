@@ -14,6 +14,9 @@ public class game {
 
     public static class Builder{
 
+        private Bot bot_Player;
+        private Symbol symbol;
+
     }
 
 
